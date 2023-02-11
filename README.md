@@ -1,1 +1,2 @@
-# tiny-clip
+# Tiny clip model
+
